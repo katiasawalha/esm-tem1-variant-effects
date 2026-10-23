@@ -1,0 +1,4 @@
+region,n_mutants,spearman,mean_rank_error
+2. Start of enzyme (24-40),322.0,0.543,0.224
+3. Middle (41-269),4351.0,0.764,0.149
+4. End of enzyme (270-286),323.0,0.485,0.211
