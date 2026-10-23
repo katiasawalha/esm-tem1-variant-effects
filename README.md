@@ -96,7 +96,6 @@ In the AlphaFold model (pLDDT > 95 at all poorly predicted positions), both term
 A plausible interpretation: the model sees less flanking sequence at the termini, and termini are often variable in natural proteins. Together, these may lead it to under-weight the structural role of this interface.
 
 ![Contact map](figures/contact_map.png)
-![Structure coloured by model error](figures/structure_errors.png)
 
 ### 4. Errors in both directions
 
